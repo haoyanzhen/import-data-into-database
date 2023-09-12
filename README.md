@@ -8,7 +8,7 @@ Import Gaia data into database. Two methods are provided: insert data per lines 
 A simple version of the last.
 
 ## database_healpix
-Import several astronomy data into database, including UCAC1~5, GSC22~24.
+Import several astronomy data into database, including UCAC1\~5, GSC22\~24.
 Full-sky data is seperated into a series of tables based on healpix.
 
 ## ASDES
