@@ -12,7 +12,7 @@ Import several astronomy data into database, including UCAC1~5, GSC22~24.
 Full-sky data is seperated into a series of tables based on healpix.
 
 ## ASDES
-A software connecting to database.
+A software GUI connecting to database.
 Functions:
 1. converting coordinates and time in astronomy
 2. query data from a internally set database and save locally
