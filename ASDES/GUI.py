@@ -229,9 +229,9 @@ class Root(tk.Tk):
         database = ("Gaia_DR3_MS" if db=='gaia dr3' else db.upper()+'_hpix8')
         print('database: ',database)
         self.mydb = mysql.connector.connect(
-                        host="119.78.226.27",
+                        host="xxxx",
                         user="root",
-                        password="shao1234",
+                        password="xxxx",
                         database=database
                         )
         self.mycursor = self.mydb.cursor()
